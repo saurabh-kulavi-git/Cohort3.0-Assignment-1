@@ -125,5 +125,4 @@ Made with 💜 by Saurabh
 
 ```
 
-Based on the uploaded HTML and CSS project files. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
-```
+
