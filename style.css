@@ -75,7 +75,7 @@ i{
 #main2 img:nth-child(3){
     width: 300px;
     position: relative;
-    top: 6%;
+    top: 15%;
     right: 6%;
     opacity: 0.3;
 }
